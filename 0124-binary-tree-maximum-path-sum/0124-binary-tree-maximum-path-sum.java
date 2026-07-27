@@ -24,12 +24,14 @@ class Solution {
         if(node==null){
             return 0;
         }
-        int left=helper(node.left);   
-        int right=helper(node.right);
+        
+        int left=node.val+helper(node.left);
+        int right=node.val+helper(node.right);
+         max=Math.max(max,left+right-node.val);
         left=Math.max(0,left);
         right=Math.max(0,right);
-        max=Math.max(max,left+right+node.val);
-        return Math.max(left,right)+node.val;
+       
+        return Math.max(left,right);
     }
     
 }

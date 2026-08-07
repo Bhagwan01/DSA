@@ -18,14 +18,21 @@ class Solution {
         List<TreeNode> list=new ArrayList<>();
         helper(root,list);
         boolean ans=false;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<list.size();i++){
+            map.put(list.get(i).val,i);
+        }
         for(int i=0;i<list.size()-1;i++){
             int temp=k-list.get(i).val;
-            for(int j=i+1;j<list.size();j++){
-               if(list.get(j).val==temp){
+            if(map.containsKey(temp)){
+                int idx=map.get(temp);
+                if(idx==i){
+                    continue;
+                }
                 ans=true;
                 break;
-               }
             }
+            
         }
         return ans;
     }

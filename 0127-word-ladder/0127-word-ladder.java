@@ -1,39 +1,41 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Queue<String> q=new LinkedList<>();
-        q.offer(beginWord);
-        HashMap<String,Integer> map=new HashMap<>();
-        map.put(beginWord,1);
-        int ans=1;
+        HashSet<String> set=new HashSet<>();
+        Queue<Pair> q=new LinkedList<>();
+        for(String word: wordList){
+            set.add(word);
+        }
+        set.remove(beginWord);
+        q.offer(new Pair(beginWord,1));
         while(!q.isEmpty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-            String curr=q.poll();
-            //System.out.println(curr);
+            Pair p=q.poll();
+            String curr=p.Word;
+            int val=p.count;
             if(curr.equals(endWord)){
-                return ans;
+                return val;
             }
-            for(String word:wordList){
-               if(!map.containsKey(word)){
-                 int count=0;
-             for(int k=0;k<word.length();k++){
-                if(word.charAt(k)!=curr.charAt(k)){
-                    count++;
-                } 
-             }
-             if(count==1){
-                map.put(word,1);
-                q.offer(word);
-             }
-               }
-             
-            }
+            for(int i=0;i<curr.length();i++){
+                for(char c='a';c<='z';c++){
+                    char[] ch_array=curr.toCharArray();
+                    ch_array[i]=c;
+                    String temp=new String(ch_array);
+                    if(set.contains(temp)==true){
+                        set.remove(temp);
+                        q.offer(new Pair(temp,val+1));
+                    }
 
+                }
             }
-            ans++;
-
-        } 
+        }
         return 0;
-
+        
+    }
+}
+class Pair{
+    String Word;
+    int count;
+    Pair(String a,int b){
+        this.Word=a;
+        this.count=b;
     }
 }

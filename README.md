@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Bhagwan01/DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Bhagwan01/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Tree
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Bhagwan01/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bhagwan01/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhagwan01/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Bhagwan01/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 ## Hash Table
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Bhagwan01/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhagwan01/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Bhagwan01/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Bhagwan01/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bhagwan01/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Bhagwan01/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Bhagwan01/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bhagwan01/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhagwan01/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Bhagwan01/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 ## String
@@ -282,8 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhagwan01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhagwan01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

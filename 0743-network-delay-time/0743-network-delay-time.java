@@ -19,7 +19,9 @@ class Solution {
             Duo d=heap.poll();
             int time=d.dist;
             int node=d.parent;
-            //if(time>)
+            if (time > distance[node]) {
+                continue;
+            }
             for(int i=0;i<adj.get(node).size();i++){
                 int next_node=adj.get(node).get(i).child;
                 int new_time=adj.get(node).get(i).weight;
@@ -29,7 +31,7 @@ class Solution {
                 }
             }
         }
-        //System.out.println(Arrays.toString(distance));
+       
         int ans=-1;
         for(int i=1;i<=n;i++){
             if(distance[i]==(int)1e9){

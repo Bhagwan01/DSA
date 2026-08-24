@@ -11,9 +11,7 @@ class Solution {
             adj.get(u).add(new Pair(v,w));
         }
         int[] distance=new int[n+1];
-        for(int i=0;i<=n;i++){
-            distance[i]=(int)1e9;
-        }
+       Arrays.fill(distance,(int)1e9);
         distance[k]=0;
         PriorityQueue<Duo> heap=new PriorityQueue<>((x,y)->Integer.compare(x.dist,y.dist));
         heap.offer(new Duo(0,k));

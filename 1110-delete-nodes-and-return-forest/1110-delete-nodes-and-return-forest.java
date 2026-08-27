@@ -23,16 +23,15 @@ class Solution {
         }
         helper(root,set,null);
         if(!set.contains(root.val)){
-            //deleteNode(root,null,set);
             ans.add(root);
         }
-        for(int i=0;i<ans.size();i++){
-                  System.out.println(ans.get(i).val);
-            if(set.contains(ans.get(i).val)){
+        // for(int i=0;i<ans.size();i++){
+        //           System.out.println(ans.get(i).val);
+        //     if(set.contains(ans.get(i).val)){
               
-                ans.remove(ans.get(i));
-            }
-        }
+        //         ans.remove(ans.get(i));
+        //     }
+        // }
         return ans;
     }
     public void helper(TreeNode node,HashSet<Integer> set,TreeNode parent){
@@ -51,20 +50,9 @@ class Solution {
             }
             if(parent!=null && parent.left==node){
             parent.left=null;
-        }else if(parent!=null && parent.right==node){
+        } else if(parent!=null && parent.right==node){
             parent.right=null;
-        }
+            }
         }
     }
-    // public void deleteNode(TreeNode node,TreeNode parent,HashSet<Integer> set){
-    //  if(node==null){
-    //     return;
-    //  }
-    //  deleteNode(node.left,node,set);
-    //  deleteNode(node.right,node,set);
-    //  if(set.contains(node.val)){
-        
-    //  }
-
-    
 }

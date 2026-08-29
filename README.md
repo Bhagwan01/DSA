@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bhagwan01/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhagwan01/DSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Bhagwan01/DSA/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Bhagwan01/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Bhagwan01/DSA/tree/master/0542-01-matrix) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Bhagwan01/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagwan01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhagwan01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window

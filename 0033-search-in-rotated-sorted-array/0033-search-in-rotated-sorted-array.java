@@ -17,7 +17,6 @@ class Solution {
         while (first_st <= first_ed) {
             int mid = (first_ed + first_st) / 2;
             if (first_st == first_ed && nums[mid] != target) {
-                System.out.println(1);
                 break;
             }
             if (nums[mid] == target) {

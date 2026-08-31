@@ -5,7 +5,6 @@ class Solution {
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             int idx=(int)ch-(int)('a');
-            System.out.println(idx);
             alpha[idx]+=1;
         }
         for(int i=0;i<t.length();i++){

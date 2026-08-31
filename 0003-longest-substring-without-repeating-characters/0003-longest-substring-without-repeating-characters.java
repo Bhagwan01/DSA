@@ -6,35 +6,24 @@ class Solution {
         if(s.length()==1){
             return 1;
         }
-        int max=1;
+        int max=0;
         
          HashMap<Character,Integer> map=new HashMap<>();
-         map.put(s.charAt(0),1);
          int i=0;
-         int j=1;
+         int j=0;
          while(j<s.length()){
-            char ch=s.charAt(j);
-            if(!map.containsKey(ch)){
-                map.put(ch,1);
-                 
+            if(!map.containsKey(s.charAt(j))){
+                map.put(s.charAt(j),j);
+            }else if(map.get(s.charAt(j))>=i){
+                i=map.get(s.charAt(j))+1;
+                map.put(s.charAt(j),j);
             }else{
-                while(map.get(ch)!=0){
-                    if(ch==s.charAt(i)){
-                        int val=map.get(ch);
-                        val=val-1;
-                        map.put(ch,val);
-                    }else{
-                        map.remove(s.charAt(i));
-                    }
-                    i++;
-                }
-                map.put(ch,1);
-                
+                map.put(s.charAt(j),j);
             }
             max=Math.max(max,j-i+1);
-           
             j++;
          }
+        
          return max;
     }
 }

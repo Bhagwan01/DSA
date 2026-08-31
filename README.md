@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhagwan01/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagwan01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhagwan01/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagwan01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Bhagwan01/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
 ## Bidirectional Search
 |  |

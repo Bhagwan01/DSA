@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagwan01/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Bhagwan01/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagwan01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Bhagwan01/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Bhagwan01/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Bhagwan01/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagwan01/DSA/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhagwan01/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

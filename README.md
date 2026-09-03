@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhagwan01/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Bhagwan01/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhagwan01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhagwan01/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bhagwan01/DSA/tree/master/0130-surrounded-regions) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagwan01/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |

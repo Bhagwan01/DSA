@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bhagwan01/DSA/tree/master/0130-surrounded-regions) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |

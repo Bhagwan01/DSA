@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhagwan01/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagwan01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagwan01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhagwan01/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bhagwan01/DSA/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Bhagwan01/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Bhagwan01/DSA/tree/master/0542-01-matrix) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhagwan01/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Bhagwan01/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhagwan01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -412,4 +417,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -14,28 +14,19 @@
  * }
  */
 class Solution {
-    int count=1;
-    //int ans=0;
+    int ans=-1;
     public int kthSmallest(TreeNode root, int k) {
-        if(root==null){
-            return 0;
-        }
-        HashMap<Integer,Integer> map=new HashMap<>();
-        helper(root,k,map);
-        int ans=map.get(k);
-        return ans;
+        List<Integer> list=new ArrayList<>();
+        helper(root,list);
 
+        return list.get(k-1);
     }
-    public void helper(TreeNode node,int k,Map<Integer,Integer> map){
-        if(node==null ||count>k){
+    public void helper(TreeNode node,List<Integer> list){
+        if(node==null){
             return;
         }
-        helper(node.left,k,map);
-       if(count<=k){
-         map.put(count,node.val);
-        count++;
-       }
-        helper(node.right,k,map);
-        
+        helper(node.left,list);
+        list.add(node.val);
+        helper(node.right,list);
     }
 }

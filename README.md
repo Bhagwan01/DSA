@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Bhagwan01/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhagwan01/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/Bhagwan01/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Bhagwan01/DSA/tree/master/0853-car-fleet) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Bhagwan01/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhagwan01/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |

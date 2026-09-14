@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhagwan01/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Bhagwan01/DSA/tree/master/1765-map-of-highest-peak) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhagwan01/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3676-count-bowl-subarrays](https://github.com/Bhagwan01/DSA/tree/master/3676-count-bowl-subarrays) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhagwan01/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/Bhagwan01/DSA/tree/master/0763-partition-labels) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhagwan01/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Trie
 |  |
 | ------- |

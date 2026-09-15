@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bhagwan01/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhagwan01/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Bhagwan01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Bhagwan01/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Bhagwan01/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhagwan01/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/Bhagwan01/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhagwan01/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Bhagwan01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagwan01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhagwan01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window

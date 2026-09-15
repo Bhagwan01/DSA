@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bhagwan01/DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Bhagwan01/DSA/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhagwan01/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Bhagwan01/DSA/tree/master/0200-number-of-islands) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bhagwan01/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhagwan01/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/Bhagwan01/DSA/tree/master/0739-daily-temperatures) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |

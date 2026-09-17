@@ -10,45 +10,25 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        Queue<ListNode> q=new ArrayDeque<>();
-        Stack<ListNode> st=new Stack<>();
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        List<Integer> list=new ArrayList<>();
+        ListNode dumm=slow.next;
+        while(dumm!=null){
+            list.add(dumm.val);
+            dumm=dumm.next;
+        }
+        slow.next=null;
         ListNode start=head;
-        ListNode end=head;
-        int count=0;
-        while(end!=null){
-            count++;
-            end=end.next;
+        for(int i=list.size()-1;i>=0;i--){
+        ListNode rev=new ListNode(list.get(i));
+        rev.next=start.next;
+        start.next=rev;
+        start=rev.next;
         }
-        int mid=0;
-        while(start!=null){
-            mid++;
-            if(mid<=count/2){
-                q.offer(start);
-            }else{
-                st.push(start);
-            }
-            start=start.next;
-        }
-        ListNode dumm=new ListNode(-1);
-        ListNode travel=dumm;
-        boolean flag=false;
-        while(!q.isEmpty() && !st.isEmpty()){
-           if(flag){
-            travel.next=st.pop();
-            flag=false;
-           }else{
-            travel.next=q.poll();
-            flag=true;
-           }
-           travel=travel.next;
-        }
-        while(!st.isEmpty()){
-            travel.next=st.pop();
-            travel=travel.next;
-        }
-        travel.next=null;
-        head=dumm.next;
-
-
     }
 }

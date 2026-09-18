@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhagwan01/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhagwan01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhagwan01/DSA/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Bhagwan01/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhagwan01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Bhagwan01/DSA/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Bhagwan01/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Bhagwan01/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagwan01/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagwan01/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0763-partition-labels](https://github.com/Bhagwan01/DSA/tree/master/0763-partition-labels) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhagwan01/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Trie

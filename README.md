@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhagwan01/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhagwan01/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |

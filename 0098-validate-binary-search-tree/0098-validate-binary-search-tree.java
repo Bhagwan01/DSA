@@ -15,18 +15,15 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        List<Integer> list=new ArrayList<>();
-        helper(root,list);
-        //System.out.println(list);
-        if(list.size()==1){
-            return true;
-        }
-        for(int i=1;i<list.size();i++){
-            if(list.get(i)<=list.get(i-1)){
+        List<Integer> inorder=new ArrayList<>();
+        helper(root,inorder);
+        boolean ans=true;
+        for(int i=1;i<inorder.size();i++){
+            if(inorder.get(i)<=inorder.get(i-1)){
                 return false;
             }
         }
-        return true;
+        return ans;
     }
     public void helper(TreeNode node,List<Integer> list){
         if(node==null){

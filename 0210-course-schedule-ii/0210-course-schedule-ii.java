@@ -1,66 +1,62 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adj=new ArrayList<>();
+        List<Integer>[] adj=new ArrayList[numCourses];
         for(int i=0;i<numCourses;i++){
-            adj.add(new ArrayList<>());
+            adj[i]=new ArrayList<>();
         }
         for(int i=0;i<prerequisites.length;i++){
-            adj.get(prerequisites[i][0]).add(prerequisites[i][1]);
+            int a=prerequisites[i][0];
+            int b=prerequisites[i][1];
+            adj[b].add(a);
         }
-        int[] visited1=new int[numCourses];
-        int[] visited=new int[numCourses];
-        Stack<Integer> st=new Stack<>();
-        int[] pathVisited=new int[numCourses];
+        Stack<Integer> topo=new Stack<>();
+        boolean visited[]=new boolean[numCourses];
+        boolean[] visited2=new boolean[numCourses];
         boolean isCycle=false;
+        int[] pathVisited=new int[numCourses];
         for(int i=0;i<numCourses;i++){
-            if(visited[i]==0){
-                if(dfs2(i,visited1,adj,pathVisited)){
+            if(!visited[i]){
+                if(isCycle==false && detectCycle(i,adj,visited2,pathVisited)){
                     isCycle=true;
                 }
-                dfs(i,visited,adj,st);
+                dfs(i,adj,visited,topo);
             }
         }
-        System.out.println(isCycle);
         int[] ans=new int[numCourses];
+        int idx=0;
         if(isCycle){
-            int temp[]={};
-            return temp;
+            return new int[0];
         }
-        int idx=ans.length-1;
-        while(!st.isEmpty()){
-            ans[idx--]=st.pop();
+        while(!topo.isEmpty()){
+          ans[idx]=topo.pop();
+          idx++;
         }
         return ans;
     }
-    public void dfs(int node ,int[] visited,List<List<Integer>> adj,Stack<Integer> st){
-        visited[node]=1;
-        
-        for(Integer it: adj.get(node)){
-            if(visited[it]==0){
-                dfs(it,visited,adj,st);
+    public void dfs(int node,List<Integer>[] adj,boolean[] visited,Stack<Integer> topo){
+        visited[node]=true;
+        for(int next:adj[node]){ 
+            if(!visited[next]){
+                dfs(next,adj,visited,topo);
             }
         }
-        st.push(node);
+        topo.push(node);
     }
-     public boolean dfs2(int node,int[] visited,List<List<Integer>> adj,int[] pathVisited){
-        visited[node]=1;
+    public boolean detectCycle(int node,List<Integer>[] adj,boolean[] visited2,int[] pathVisited){
+        visited2[node]=true;
         pathVisited[node]=1;
-        for(Integer it:adj.get(node)){
-            if(visited[it]==0){
-                if(dfs2(it,visited,adj,pathVisited)){
+        for(int next:adj[node]){
+            if(!visited2[next]){
+                if(detectCycle(next,adj,visited2,pathVisited)){
                     return true;
                 }
             }else{
-                if(pathVisited[it]==1){
+                if(pathVisited[next]==1){
                     return true;
                 }
-
             }
         }
         pathVisited[node]=0;
         return false;
-        
     }
-    
-
 }

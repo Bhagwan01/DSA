@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagwan01/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Bhagwan01/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Bhagwan01/DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Bhagwan01/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhagwan01/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhagwan01/DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Bhagwan01/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Bhagwan01/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhagwan01/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |

@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhagwan01/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Bhagwan01/DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Bhagwan01/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Bhagwan01/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhagwan01/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Bhagwan01/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |

@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Bhagwan01/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Bhagwan01/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Bhagwan01/DSA/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Bhagwan01/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Bhagwan01/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhagwan01/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Bhagwan01/DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Bhagwan01/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bhagwan01/DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhagwan01/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Bhagwan01/DSA/tree/master/0763-partition-labels) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Bhagwan01/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bhagwan01/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhagwan01/DSA/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Bhagwan01/DSA/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -627,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhagwan01/DSA/tree/master/0204-count-primes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Bhagwan01/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

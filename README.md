@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhagwan01/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhagwan01/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Bhagwan01/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhagwan01/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Bhagwan01/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Bhagwan01/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Bhagwan01/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Bhagwan01/DSA/tree/master/0189-rotate-array) |

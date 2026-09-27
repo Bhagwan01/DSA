@@ -21,7 +21,7 @@ class Solution {
         if(node==null){
             return false;
         }
-        if(isidentical(node,subnode)){
+        if(node.val==subnode.val && isidentical(node,subnode)){
             return true;
         }
         return helper(node.left,subnode) || helper(node.right,subnode);

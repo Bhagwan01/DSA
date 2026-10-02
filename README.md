@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Bhagwan01/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhagwan01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagwan01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Bhagwan01/DSA/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Bhagwan01/DSA/tree/master/0853-car-fleet) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Bhagwan01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Bhagwan01/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bhagwan01/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhagwan01/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Bit Manipulation
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Bhagwan01/DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Bhagwan01/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhagwan01/DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhagwan01/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Bhagwan01/DSA/tree/master/0763-partition-labels) |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhagwan01/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Bhagwan01/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bhagwan01/DSA/tree/master/0155-min-stack) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhagwan01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhagwan01/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhagwan01/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Bhagwan01/DSA/tree/master/0125-valid-palindrome) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Quickselect
 |  |
 | ------- |

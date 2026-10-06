@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Bhagwan01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Bhagwan01/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Bhagwan01/DSA/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhagwan01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Bhagwan01/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Bhagwan01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Bhagwan01/DSA/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhagwan01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bidirectional Search
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Bhagwan01/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhagwan01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |

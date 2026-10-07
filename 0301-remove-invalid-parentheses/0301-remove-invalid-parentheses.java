@@ -31,11 +31,11 @@ class Solution {
     }
 
     public void helper(int idx, StringBuilder sb, int del, List<String> ans, String s, int op,int clo) {
-        if (del == 0 && idx == s.length() && op == 0) {
-            String temp = sb.toString();
-            ans.add(temp);
-            return;
-        }
+        // if (del == 0 && idx == s.length() && op == 0) {
+        //     String temp = sb.toString();
+        //     ans.add(temp);
+        //     return;
+        // }
         if (idx == s.length() && op == clo) {
             String temp = sb.toString();
             ans.add(temp);
@@ -44,10 +44,6 @@ class Solution {
         if(clo>op){
             return;
         }
-        if(clo<0 || op<0){
-            return;
-        }
-
         if (del < 0 || idx >= s.length()) {
             return;
         }

@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhagwan01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhagwan01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3676-count-bowl-subarrays](https://github.com/Bhagwan01/DSA/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Bhagwan01/DSA/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhagwan01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhagwan01/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Bhagwan01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhagwan01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhagwan01/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Quickselect
 |  |
 | ------- |

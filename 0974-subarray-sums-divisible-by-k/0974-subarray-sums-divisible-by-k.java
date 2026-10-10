@@ -18,9 +18,7 @@ class Solution {
                 map.put(remainder,1);
             }
         }
-        // for(Map.Entry<Integer,Integer> entry: map.entrySet()){
-        //     ans+=entry.getValue(); 
-        // }
+         
         return ans;
 
     }

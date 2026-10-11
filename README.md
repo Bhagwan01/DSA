@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhagwan01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3676-count-bowl-subarrays](https://github.com/Bhagwan01/DSA/tree/master/3676-count-bowl-subarrays) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Bhagwan01/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Divide and Conquer
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhagwan01/DSA/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhagwan01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |

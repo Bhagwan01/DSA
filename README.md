@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhagwan01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhagwan01/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhagwan01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3676-count-bowl-subarrays](https://github.com/Bhagwan01/DSA/tree/master/3676-count-bowl-subarrays) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Bhagwan01/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Divide and Conquer
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Bhagwan01/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bhagwan01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhagwan01/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Trie
 |  |
 | ------- |

@@ -19,7 +19,7 @@ class Solution {
             long temp=0;
             for(int i=0;i<32;i++){
                 if(countOne[i]!=0){
-                  temp+=(int)Math.pow(2,i);
+                  temp+=(1L<<i);
                   countOne[i]--;
                 }
             }

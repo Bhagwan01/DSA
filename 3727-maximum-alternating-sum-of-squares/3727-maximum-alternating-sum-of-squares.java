@@ -16,7 +16,7 @@ class Solution {
             }
             ans+=1L*nums[j]*nums[j];
             ans-=1L*nums[i]*nums[i];
-            System.out.println(ans);
+            //System.out.println(ans);
             i++;j--;
         }
         return ans;

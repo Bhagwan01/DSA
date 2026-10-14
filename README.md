@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Bhagwan01/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Bhagwan01/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0461-hamming-distance](https://github.com/Bhagwan01/DSA/tree/master/0461-hamming-distance) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search Tree
 |  |

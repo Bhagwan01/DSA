@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhagwan01/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhagwan01/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagwan01/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhagwan01/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhagwan01/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Memoization
 |  |
 | ------- |

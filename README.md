@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Bhagwan01/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhagwan01/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhagwan01/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhagwan01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhagwan01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhagwan01/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1905-count-sub-islands](https://github.com/Bhagwan01/DSA/tree/master/1905-count-sub-islands) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhagwan01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhagwan01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhagwan01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Bhagwan01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/Bhagwan01/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhagwan01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bhagwan01/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Bit Manipulation
 |  |

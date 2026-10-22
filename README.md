@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagwan01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhagwan01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Bhagwan01/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bhagwan01/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhagwan01/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhagwan01/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Bhagwan01/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Bhagwan01/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhagwan01/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Bhagwan01/DSA/tree/master/0049-group-anagrams) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Bhagwan01/DSA/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Bhagwan01/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhagwan01/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |

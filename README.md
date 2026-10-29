@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Bhagwan01/DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Bhagwan01/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Bhagwan01/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Bhagwan01/DSA/tree/master/0206-reverse-linked-list) |
 ## Backtracking
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhagwan01/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Bhagwan01/DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Bhagwan01/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Bhagwan01/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bhagwan01/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |

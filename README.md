@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhagwan01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagwan01/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhagwan01/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/Bhagwan01/DSA/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagwan01/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Bhagwan01/DSA/tree/master/0525-contiguous-array) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Bhagwan01/DSA/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/Bhagwan01/DSA/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhagwan01/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagwan01/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhagwan01/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhagwan01/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |

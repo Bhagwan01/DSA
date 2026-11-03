@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhagwan01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3676-count-bowl-subarrays](https://github.com/Bhagwan01/DSA/tree/master/3676-count-bowl-subarrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bhagwan01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bhagwan01/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Bhagwan01/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Bhagwan01/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Divide and Conquer
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Bhagwan01/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhagwan01/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhagwan01/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bhagwan01/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Bhagwan01/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Memoization
 |  |

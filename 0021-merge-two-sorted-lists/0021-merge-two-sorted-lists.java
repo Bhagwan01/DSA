@@ -17,20 +17,14 @@ class Solution {
         while(head1!=null && head2!=null){
             //System.out.println(head1.val+" "+head2.val);
             if(head1.val<=head2.val){
-                if(head==null){
-                    head=head1;
-                }else{
                     head.next=head1;
                      head=head.next;
-                }
+                
                 head1=head1.next; 
             }else{
-                if(head==null){
-                    head=head2;
-                }else{
                   head.next=head2;
                    head=head.next;
-                }
+                
                 head2=head2.next;
             }
            

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bhagwan01/DSA/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Bhagwan01/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhagwan01/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bhagwan01/DSA/tree/master/0070-climbing-stairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhagwan01/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bhagwan01/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Bhagwan01/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Bhagwan01/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhagwan01/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhagwan01/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhagwan01/DSA/tree/master/0057-insert-interval) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhagwan01/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Bhagwan01/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhagwan01/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |

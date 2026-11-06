@@ -10,19 +10,22 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        return helper(root,p,q);
+        return dfs(root,p,q);
     }
-    public TreeNode helper(TreeNode node,TreeNode p,TreeNode q){
+    public TreeNode dfs(TreeNode node,TreeNode p,TreeNode q){
         if(node==null){
             return null;
         }
-        if((node.val>=p.val && node.val<=q.val) || (node.val<=p.val && node.val>=q.val)){
+       
+        if(node.val>=p.val && node.val<=q.val || (node.val<=p.val && node.val>=q.val)){
             return node;
         }
-        TreeNode left=helper(node.left,p,q);
+        TreeNode left=dfs(node.left,p,q);
         if(left!=null){
             return left;
         }
-        return helper(node.right,p,q);
+        
+        return dfs(node.right,p,q);
+
     }
 }

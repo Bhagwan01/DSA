@@ -1,8 +1,23 @@
 class Solution {
     public int climbStairs(int n, int[] costs) {
         int[] dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return helper(0,costs,n,dp);
+        dp[n]=0;
+        for(int i=n-1;i>=0;i--){
+            int t1=(int)1e9;
+            if(i+1<=n){
+                t1=costs[i+1-1]+1+dp[i+1];
+            }
+            int t2=(int)1e9;
+            if(i+2<=n){
+                t2=costs[i+2-1]+4+dp[i+2];
+            }
+            int t3=(int)1e9;
+            if(i+3<=n){
+                t3=costs[i+3-1]+9+dp[i+3];
+            }
+            dp[i]=Math.min(Math.min(t1,t2),t3);
+        }
+        return dp[0];
     }
     public int helper(int i,int[] costs,int n,int[] dp){
         if(i==n){

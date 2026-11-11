@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhagwan01/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagwan01/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Bhagwan01/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhagwan01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Bhagwan01/DSA/tree/master/0875-koko-eating-bananas) |
@@ -787,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhagwan01/DSA/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Bhagwan01/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

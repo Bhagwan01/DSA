@@ -2,41 +2,20 @@ class Solution {
     public int longestMonotonicSubarray(int[] nums) {
         int inc=1;
         int dec=1;
-        Stack<Integer> st=new Stack<>();
-        int temp=0;
-        for(int i=0;i<nums.length;i++){
-            if(!st.isEmpty()){
-                if(st.peek()<nums[i]){
-                    temp=st.size()+1;
-                    inc=Math.max(inc,temp);
-                }else{
-                    while(!st.isEmpty()){
-                        st.pop();
-                    }
-                    temp=0;
-                }
+        int ans=1;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]>nums[i-1]){
+                inc++;
+                dec=1;
+            }else if(nums[i]<nums[i-1]){
+                dec++;
+                inc=1;
+            }else{
+                inc=1;
+                dec=1;
             }
-            st.push(nums[i]);
+            ans=Math.max(ans,Math.max(inc,dec));
         }
-        while(!st.isEmpty()){
-            st.pop();
-        }
-        temp=0;
-        for(int i=0;i<nums.length;i++){
-            if(!st.isEmpty()){
-                if(st.peek()>nums[i]){
-                    temp=st.size()+1;
-                    dec=Math.max(dec,temp);
-                }else{
-                    while(!st.isEmpty()){
-                        st.pop();
-                    }
-                    temp=0;
-                }
-            }
-            st.push(nums[i]);
-
-        }
-        return Math.max(inc,dec);
+        return ans;
     }
 }

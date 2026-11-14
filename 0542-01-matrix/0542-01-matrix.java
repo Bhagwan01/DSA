@@ -1,43 +1,33 @@
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
-        Queue<Pair> q=new LinkedList<>();
+        int[] row={-1,0,1,0};
+        int[] col={0,1,0,-1};
+        int[][] mindist=new int[mat.length][mat[0].length];
+        Queue<int[]> q=new ArrayDeque<>();
         for(int i=0;i<mat.length;i++){
             for(int j=0;j<mat[0].length;j++){
                 if(mat[i][j]==0){
-                    q.offer(new Pair(i,j));
+                    mindist[i][j]=0;
+                   q.offer(new int[]{i,j});
                 }else{
-                    mat[i][j]=-1;
+                    mindist[i][j]=-1;
                 }
             }
         }
-         int row[]={-1,0,1,0};
-        int col[]={0,1,0,-1};
         while(!q.isEmpty()){
-            Pair p=q.poll();
-            int r=p.ROW;
-            int c=p.COL;
+            int ele[]=q.poll();
+            int curr_r=ele[0];
+            int curr_c=ele[1];
             for(int i=0;i<4;i++){
-                int tr=r+row[i];
-                int tc=c+col[i];
-                if(tr>=0 && tr<mat.length && tc>=0 && tc<mat[0].length && mat[tr][tc]==-1){
-                    mat[tr][tc]=mat[r][c]+1;
-                    q.offer(new Pair(tr,tc));
-                }
+               int next_r=curr_r+row[i];
+               int next_c=curr_c+col[i];
+               if(next_r>=0 && next_r<mat.length && next_c>=0 && next_c<mat[0].length && mindist[next_r][next_c]==-1){
+                mindist[next_r][next_c]=mindist[curr_r][curr_c]+1;
+                q.offer(new int[]{next_r,next_c});
+               }
             }
+            
         }
-        return mat;
-        
-    }
-
-    
-}
-
-class Pair {
-    int ROW;
-    int COL;
-
-    Pair(int a, int b) {
-        this.ROW = a;
-        this.COL = b;
+        return mindist;
     }
 }

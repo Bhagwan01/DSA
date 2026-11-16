@@ -1,25 +1,23 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<int[]> heap=new PriorityQueue<>((a,b)->Integer.compare(b[0],a[0]));
+        PriorityQueue<int[]> pq=new PriorityQueue<>((x,y)->Integer.compare(x[0],y[0]));
         for(int i=0;i<points.length;i++){
-            int x=points[i][0];
-            int y=points[i][1];
-            int dist=(x*x)+(y*y);
-            //System.out.println(dist);
-            heap.offer(new int[]{dist,i});
-            if(heap.size()>k){
-                int[] temp=heap.poll();
-            }
+            int a=points[i][0];
+            int b=points[i][1];
+            int sum=(a*a)+(b*b);
+            
+            pq.offer(new int[]{sum,i});
         }
         int[][] ans=new int[k][2];
         int i=0;
-        while(!heap.isEmpty()){
-            int[] curr=heap.poll();
-            int idx=curr[1];
+        while(i<k){
+            int[] element=pq.poll();
+            int idx=element[1];
             ans[i][0]=points[idx][0];
             ans[i][1]=points[idx][1];
             i++;
         }
         return ans;
     }
+
 }

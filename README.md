@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagwan01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhagwan01/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Bhagwan01/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhagwan01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagwan01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagwan01/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Bhagwan01/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Bhagwan01/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/Bhagwan01/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhagwan01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagwan01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhagwan01/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Bhagwan01/DSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Bhagwan01/DSA/tree/master/0621-task-scheduler) |
 | [1267-count-servers-that-communicate](https://github.com/Bhagwan01/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Math

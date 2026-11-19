@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Bhagwan01/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Bhagwan01/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhagwan01/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Bhagwan01/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bhagwan01/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Bhagwan01/DSA/tree/master/0264-ugly-number-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhagwan01/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Bhagwan01/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bhagwan01/DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Bhagwan01/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bhagwan01/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhagwan01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagwan01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhagwan01/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Bhagwan01/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bhagwan01/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Bhagwan01/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bhagwan01/DSA/tree/master/0200-number-of-islands) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagwan01/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhagwan01/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Bhagwan01/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagwan01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhagwan01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bhagwan01/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Bhagwan01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhagwan01/DSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Bhagwan01/DSA/tree/master/0621-task-scheduler) |
@@ -806,4 +811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Bhagwan01/DSA/tree/master/0278-first-bad-version) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhagwan01/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

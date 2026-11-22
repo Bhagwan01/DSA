@@ -1,36 +1,33 @@
 class Solution {
-    boolean ans=true;
     public boolean isBipartite(int[][] graph) {
-        int[] visited=new int[graph.length];
-        for(int i=0;i<visited.length;i++){
-           if(visited[i]==0){
-             dfs(i,-1,visited,graph); 
-           }
+        int[] set=new int[graph.length];
+        Arrays.fill(set,-1);
+        set[0]=0;
+        boolean[] visited=new boolean[graph.length];
+        for(int i=0;i<graph.length;i++){
+            if(dfs(i,visited,set,graph)==false){
+                return false;
+            }
         }
-       
-        return ans;
-        
+        return true;
     }
-    public void dfs(int node,int parent,int[] visited,int[][] graph){
-        if(parent==-1){
-            visited[node]=1;
-            parent=1;
-        }else{
-            if(parent==1){
-                visited[node]=2;
-            }else{
-                visited[node]=1;
-            }
-        }
-        for(Integer it:graph[node]){
-            if(visited[it]==0){
-                dfs(it,visited[node],visited,graph);
-            }else{
-                if(visited[node]==visited[it]){   
-                ans=false;
-                return;
+    public boolean dfs(int node,boolean[] visited,int[] set,int[][] graph){
+        visited[node]=true;
+        for(int i=0;i<graph[node].length;i++){
+            int next_node=graph[node][i];
+            if(set[next_node]==-1){
+                if(set[node]==0){
+                    set[next_node]=1;
+                }else{
+                    set[next_node]=0;
                 }
+                if(!dfs(next_node,visited,set,graph)){
+                    return false;
+                }
+            }else if(set[next_node]==set[node]){
+                return false;
             }
         }
+        return true;
     }
 }
